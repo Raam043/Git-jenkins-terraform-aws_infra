@@ -8,6 +8,6 @@ resource "aws_instance" "web-1" {
     vpc_security_group_ids = ["${aws_security_group.allow_all.id}"]
     associate_public_ip_address = true	
     tags = {
-    Name = "Server Murali"
+    Name = "Linux-R"
   }
 }
