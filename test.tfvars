@@ -1,5 +1,5 @@
-aws_access_key = "AKIAXESYQPCAKBCPSEHA"
-aws_secret_key = "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"
+aws_access_key = "AKIAXESYQPCAHX6QJU42"
+aws_secret_key = "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"
 aws_region = "us-east-2"
 vpc_name = "terraform-ramesh"
 vpc_cidr = "10.1.0.0/16"
