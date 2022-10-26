@@ -1,6 +1,6 @@
 resource "aws_instance" "web-1" {
     count = 1
-	ami = "ami-02d1e544b84bf7502"
+	ami = "ami-089a545a9ed9893b6"
     availability_zone = "us-east-2a"
     instance_type = "t2.micro"
     key_name = ""
