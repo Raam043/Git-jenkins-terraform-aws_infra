@@ -1,5 +1,5 @@
-aws_access_key = "AKIAXENEFTDPV45NA36C"
-aws_secret_key = "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"
+aws_access_key = "AKIAXENEFTDA36C"
+aws_secret_key = "CMwJ5CYe4ooC4b/AZgJSXlBsjnSu9ricM"
 aws_region = "us-east-2"
 vpc_name = "Ramesh-tf-VPC"
 vpc_cidr = "10.1.0.0/16"
